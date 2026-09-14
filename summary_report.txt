@@ -1,0 +1,6 @@
+SALES SUMMARY REPORT
+====================
+Total Sales: 1024022.00
+Average Sales: 10240.22
+Total Records: 100
+Duplicate Rows Removed: 5
